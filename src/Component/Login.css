@@ -1,0 +1,92 @@
+ .msg{
+   font-size: 12px;
+     color: red;
+}
+/* form{
+    background-color: purple;
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-right: 400px;
+    padding: 100px;;
+
+}
+h1{
+    margin-top: -100px;  
+}
+.Login{
+    margin-top: 40px;
+    margin-left:-10px;
+    
+  
+}
+.Register{
+    margin-left:10px;
+    color:palevioletred;
+    /* margin-top: -10px; */
+    /* margin-left: 130px;
+} */
+ */ */
+
+
+ #register, #login {
+    width: 300px;
+    border: 1px solid #d6d7da;
+    padding: 0px 15px 15px 15px;
+    border-radius: 5px;
+    font-family: arial;
+    line-height: 16px;
+    color: #333333;
+    font-size: 14px;
+    background: #ffffff;
+    margin: 100px auto;
+  }
+  
+  form label, form input {
+    display: block;
+    margin-bottom: 10px;
+    width: 90%
+  }
+  
+  form input {
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+
+  
+  }
+  
+  .button {
+    background-color:rgb(45, 50, 51);
+    border-color: #3ac162;
+    font-weight: bold;
+    padding: 13px 11px;
+    display: block;
+    padding-left: 40px;
+    padding-right: 20px;
+    margin-left:-3px;
+    color: red;
+  }
+  
+  .errorMsg {
+    color: #cc0000;
+    margin-bottom: 12px;
+    font-size: 12px;
+  }
+  
+  .sucessMsg {
+    color: #6B8E23;
+    margin-bottom: 10px;
+  }
+  .button1{
+    
+        background-color:rgb(45, 50, 51);
+        border-color: #3ac162;
+        font-weight: bold;
+        padding: 13px 15px;
+        display: block;
+        padding-left: 40px;
+        padding-right: 40px;
+        margin-left:116px;
+        color: red;
+        margin-top:-45px;
+      }
+  
